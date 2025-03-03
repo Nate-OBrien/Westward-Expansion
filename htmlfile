@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sacagawea Website</title>
+    <!-- Bootstrap CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css"> <!-- Link to your custom CSS -->
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header class="bg-dark text-white py-4">
+        <div class="container text-center">
+            <h1 class="display-4">Sacagawea: An Icon of Westward Expansion</h1>
+            <nav>
+                <a href="#early-life" class="text-white mx-3">Early Life</a>
+                <a href="#culture" class="text-white mx-3">Culture</a>
+                <a href="#challenges" class="text-white mx-3">Challenges</a>
+                <a href="#expeditions" class="text-white mx-3">Expeditions</a>
+                <a href="#contributions" class="text-white mx-3">Contributions</a>
+                <a href="#legacy" class="text-white mx-3">Legacy</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Early Life Section -->
+    <section id="early-life" class="section py-5">
+        <div class="container">
+            <h2 class="display-5 text-center">Early Life</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="early.jpg" alt="Sacagawea Portrait" class="img-fluid rounded shadow mb-4 same-size">
+                </div>
+                <div class="col-md-6">
+                    <p>Born in Lemhi County, Idaho, around 1788. The exact date is unknown.</p>
+                    <p>At the age of 12, she was captured by the Hidatsa during an enemy raid and taken to their village near Bismarck, North Dakota.</p>
+                    <p>She married Canadian explorer Toussaint Charbonneau at 16, and they had a son, Jean Baptiste Charbonneau.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Culture Section -->
+    <section id="culture" class="section bg-light py-5">
+        <div class="container">
+            <h2 class="display-5 text-center">Culture</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="sho.jpg" alt="Shoshone Culture" class="img-fluid rounded shadow mb-4 same-size">
+                </div>
+                <div class="col-md-6">
+                    <ul>
+                        <li>Considered semi-nomadic hunter-gatherers.</li>
+                        <li>Hunted bison, salmon, elk, deer, moose, and antelope.</li>
+                        <li>The Chief of the Shoshone was Cameahwait, Sacagawea's brother.</li>
+                        <li>Highly knowledgeable about the terrain and traveling in the mountains.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Challenges Section -->
+    <section id="challenges" class="section py-5">
+        <div class="container">
+            <h2 class="display-5 text-center">Challenges</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="chal.jpg" alt="Challenges" class="img-fluid rounded shadow mb-4 same-size">
+                </div>
+                <div class="col-md-6">
+                    <ul>
+                        <li>Faced discrimination, being referred to as a "commodity".</li>
+                        <li>Had to carry her infant son while providing food for the group.</li>
+                        <li>Endured dangerous landscapes, including rocky mountains and uncharted routes.</li>
+                        <li>Faced harsh weather, such as lightning, rainstorms, hailstorms, and tornadoes.</li>
+                        <li>Forced to assimilate into an enemy tribe’s culture and marry against her will.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Lewis & Clark Expeditions Section -->
+    <section id="expeditions" class="section bg-light py-5">
+        <div class="container">
+            <h2 class="display-5 text-center">Lewis & Clark Expeditions</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="exp.jpg" alt="Lewis & Clark Expedition" class="img-fluid rounded shadow mb-4 same-size">
+                </div>
+                <div class="col-md-6">
+                    <ul>
+                        <li>Helped gather edible plants to sustain the expedition.</li>
+                        <li>Made moccasins and essential clothing for the group to endure harsh conditions.</li>
+                        <li>Acted as a symbol of peace between white settlers and Native tribes.</li>
+                        <li>Reunited with her brother Cameahwait, helping the expedition access vital horses for the Rocky Mountain crossing.</li>
+                        <li>There was no romantic relationship between her and Clark, despite frequent gift exchanges.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contributions to Westward Expansion Section -->
+    <section id="contributions" class="section py-5">
+        <div class="container">
+            <h2 class="display-5 text-center">Contributions to Westward Expansion</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="ime.jpg" alt="Westward Expansion" class="img-fluid rounded shadow mb-4 same-size">
+                </div>
+                <div class="col-md-6">
+                    <ul>
+                        <li>Helped map out much of the desolate terrain in the West, marking vital routes such as the Bozeman Pass.</li>
+                        <li>Established essential connections between other fellow Native American tribes, even if they were not in the same tribe as her own.</li>
+                        <li>Her immense survival knowledge allowed settlers moving West to thrive in extreme conditions.</li>
+                        <li>Opened up the unexplored lands of the Louisiana Territory for Americans.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Legacy Section -->
+    <section id="legacy" class="section py-5">
+        <div class="container">
+            <h2 class="display-5 text-center">Lasting Legacy</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="legacy.jpg" alt="Sacagawea Legacy" class="img-fluid rounded shadow mb-4 same-size">
+                </div>
+                <div class="col-md-6">
+                    <p>Though often overlooked, Sacagawea’s contributions during the Lewis and Clark Expedition were crucial to the success of westward expansion.</p>
+                    <p>Her survival skills and deep knowledge of the terrain helped settlers thrive in the West, opening up new opportunities for economic growth.</p>
+                    <p>Despite being viewed as inferior due to her gender and Native American heritage, her legacy proves that even those considered the most marginalized can have a lasting impact on society.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white py-3 text-center">
+        <p> A Collaborative Project by Nate, Ryan, and Raymond</p>
+    </footer>
+
+    <!-- Bootstrap JS & Popper.js (Optional for Bootstrap components like dropdowns) -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>
